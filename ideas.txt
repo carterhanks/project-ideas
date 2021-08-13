@@ -1,9 +1,9 @@
 Dating App for people who have cats
 
-Video player (youtube clone)
+Air quality api that will give you the quality of the air at your location or a location of your choosing
 
 Tinder, but you swipe pickup lines instead of photos, and once you match you can see their profile.
 
-New Portfolio with working contact form
+Light polution app that would show you what the stargazing conditions are of the area you are in / plan to go.
 
 Colorblind helper app or colorblind testing app.
